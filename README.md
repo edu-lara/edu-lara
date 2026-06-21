@@ -10,21 +10,20 @@ I am also exploring developer tooling through extensions for Kiro, VS Code-compa
 
 ## Main areas
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Cloud Training](https://img.shields.io/badge/Cloud-Training-blue)
-![Kiro](https://img.shields.io/badge/Kiro-Extensions-purple)
-![Open VSX](https://img.shields.io/badge/Open%20VSX-Publisher-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-black)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)
+[![Cloud Training](https://img.shields.io/badge/Cloud-Training-blue)](https://www.vocecertificado.com.br)
+[![Kiro](https://img.shields.io/badge/Kiro-Extensions-purple)](https://kiro.dev/)
+[![Open VSX](https://img.shields.io/badge/Open%20VSX-Publisher-blue)](https://open-vsx.org/extension/VoceCertificado/txt-color)
 
 ## Projects
 
 - TXT Color, a syntax highlighting extension for plain text and configuration-style files.
 - AWS certification preparation courses.
 - Cloud labs, quizzes, and exam simulations.
-- Technical articles about AWS products, services, and certifications.
 
 ## Links
 
 - Website: https://www.vocecertificado.com.br
 - Open VSX: https://open-vsx.org/extension/VoceCertificado/txt-color
+- Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=VoceCertificado.txt-color
 - GitHub Organization: https://github.com/VoceCertificado
