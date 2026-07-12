@@ -18,8 +18,7 @@ I am also exploring developer tooling through extensions for Kiro, VS Code-compa
 ## Projects
 
 - TXT Color, a syntax highlighting extension for plain text and configuration-style files.
-- AWS certification preparation courses.
-- Cloud labs, quizzes, and exam simulations.
+- Priority Compass AI, AI-powered Eisenhower Matrix built with Amazon Bedrock, AWS Lambda, API Gateway and AWS Amplify.
 
 ## Links
 
