@@ -17,8 +17,8 @@ I am also exploring developer tooling through extensions for Kiro, VS Code-compa
 
 ## Projects
 
-- TXT Color, a syntax highlighting extension for plain text and configuration-style files.
-- Priority Compass AI, AI-powered Eisenhower Matrix built with Amazon Bedrock, AWS Lambda, API Gateway and AWS Amplify.
+- [TXT Color](https://github.com/VoceCertificado/txtcolor), a syntax highlighting extension for plain text and configuration-style files.
+- [Priority Compass AI](https://github.com/edu-lara/priority-compass-ai/), AI-powered Eisenhower Matrix built with Amazon Bedrock, AWS Lambda, API Gateway and AWS Amplify.
 
 ## Links
 
