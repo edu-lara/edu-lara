@@ -36,6 +36,10 @@ Aplicação baseada na Matriz de Eisenhower que utiliza inteligência artificial
 
 Projeto educacional que utiliza Strands Agents e Amazon Bedrock para consultar recursos de uma conta AWS, organizar os resultados e apoiar uma auditoria de inventário.
 
+### [Youtube Video Summary](https://github.com/edu-lara/youtube-video-summary)
+
+Aplicação que realiza o resumo de vídeos do YouTube com IA usando Amazon Bedrock, AWS Lambda e AWS Amplify.
+
 ## Conteúdo e comunidade
 
 - Fundador e instrutor da [Você Certificado](https://www.vocecertificado.com.br/)
