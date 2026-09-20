@@ -38,6 +38,10 @@ An Eisenhower Matrix application that uses artificial intelligence to classify t
 
 An educational project that uses Strands Agents and Amazon Bedrock to query resources in an AWS account, organize the results, and support an inventory audit.
 
+### [Youtube Video Summary](https://github.com/edu-lara/youtube-video-summary)
+
+An application that uses AI to summarize YouTube videos, powered by Amazon Bedrock, AWS Lambda, and AWS Amplify.
+
 ## Content and community
 
 - Founder and instructor at [Você Certificado](https://www.vocecertificado.com.br/)
