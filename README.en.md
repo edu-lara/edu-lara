@@ -4,7 +4,9 @@
 
 Founder of [Você Certificado](https://www.vocecertificado.com.br/), AWS instructor, and technical content creator.
 
-I help people who are starting or transitioning into cloud computing develop practical skills and prepare for AWS Certifications. I create courses, hands-on labs, practice exams, review quizzes, and technical articles.
+🔸 Since 2019, I have been helping people who are getting started in technology or transitioning to a new career develop practical cloud computing skills and prepare for AWS Certifications.
+
+To support them, I create preparatory courses, hands-on labs, practice exams, quizzes, and technical articles about AWS products and services. 🧡
 
 ## Main areas
 

@@ -4,7 +4,9 @@
 
 Fundador da [Você Certificado](https://www.vocecertificado.com.br/), instrutor AWS e criador de conteúdo técnico.
 
-Ajudo pessoas que estão iniciando ou migrando para a computação em nuvem a desenvolver habilidades práticas e se preparar para certificações AWS. Para isso, produzo cursos, laboratórios práticos, simulados, quizzes de revisão e artigos técnicos.
+🔸 Desde 2019, ajudo pessoas que estão iniciando na tecnologia ou em transição de carreira a desenvolver habilidades práticas em computação em nuvem e a se preparar para as certificações AWS.
+
+Para isso, produzo cursos preparatórios, laboratórios práticos, simulados, quizzes e artigos técnicos sobre produtos e serviços AWS. 🧡
 
 ## Áreas de atuação
 
