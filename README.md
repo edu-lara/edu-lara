@@ -17,6 +17,7 @@
 🌐 **Idioma:** **Português** | [English](README.en.md)
 
 # Eduardo Lara
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/edulara/)
 
 Fundador da [Você Certificado](https://www.vocecertificado.com.br/), instrutor AWS e criador de conteúdo técnico.
 
@@ -30,6 +31,7 @@ Para isso, produzo cursos preparatórios, laboratórios práticos, simulados, qu
 [![Cloud Training](https://img.shields.io/badge/Cloud-Training-blue)](https://www.vocecertificado.com.br)
 [![Kiro](https://img.shields.io/badge/Kiro-Extensions-purple)](https://kiro.dev/)
 [![Open VSX](https://img.shields.io/badge/Open%20VSX-Publisher-blue)](https://open-vsx.org/extension/VoceCertificado/txt-color)
+![JavaScript Developer](https://img.shields.io/badge/JavaScript-Developer-yellow?logo=javascript)
 
 - Amazon Web Services (AWS)
 - Arquiteturas serverless e automação
