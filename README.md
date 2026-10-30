@@ -1,14 +1,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="/imagens/banner-dark-edulara.png"
+    srcset="./imagens/banner-dark-edulara.jpg"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="/imagens/banner-light-edulara.png"
+    srcset="./imagens/banner-light-edulara.jpg"
   >
   <img
-    src="/imagens/banner-light-edulara.png"
+    src="./imagens/banner-light-edulara.jpg"
     alt="Eduardo Lara. AWS, Código e Ensino."
     width="100%"
   >
