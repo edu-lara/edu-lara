@@ -60,6 +60,10 @@ An educational project that uses Strands Agents and Amazon Bedrock to query reso
 
 An application that uses AI to summarize YouTube videos, powered by Amazon Bedrock, AWS Lambda, and AWS Amplify.
 
+### [Atari with PPO](https://github.com/edu-lara/atari)
+
+Reinforcement learning project training agents to play Breakout and Pong using the PPO (Proximal Policy Optimization) algorithm with Stable-Baselines3 and Gymnasium.
+
 ## Content and community
 
 - Founder and instructor at [Você Certificado](https://www.vocecertificado.com.br/)
